@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.lmg_seller_new",
+      "sha256_cert_fingerprints": [
+        "14:E5:CB:05:17:E7:A4:DF:EC:74:B7:C1:DF:49:26:72:46:43:2C:CE:E9:0B:F3:80:D8:02:EF:6B:9E:FD:67:EA"
+      ]
+    }
+  }
+]
